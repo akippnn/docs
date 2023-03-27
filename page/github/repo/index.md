@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Using GitHub
-nav_order: 2
+title: Repositories
+parent: Using GitHub
 has_children: true
 ---
 
